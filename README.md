@@ -3,6 +3,7 @@
 
 Primero se inician las maquinas EC2 con los respectivos comandos
 
+[video demostrativo](https://youtu.be/O5oS2nlVtBQ)
 
 ![img](/img/img1.png)
 
