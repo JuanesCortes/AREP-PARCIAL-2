@@ -9,7 +9,7 @@ import java.net.URL;
 public class HttpConnectionExample {
 
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String GET_URL = "http://localhost:4568/palindromo?name=";
+    private static final String GET_URL = "http://ec2-3-86-163-124.compute-1.amazonaws.com:4568/palindromo?name=";
 
     public static String consultar(String cadena) throws IOException {
 
